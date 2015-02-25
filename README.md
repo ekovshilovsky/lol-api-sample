@@ -5,7 +5,7 @@ This web applicaiton that runs on Node.js and uses Angular has been created to s
 After checking out the project.  In order to run this app on port 9000.  Follow the following instructions:
 1. Install Node.js from http://nodejs.org/
   * Node may already be installed.  This can be tested by running node --version in terminal.
-2. run 'export LOL_API_SECRET=<lol api key>'
+2. run 'export LOL_API_SECRET=&lt;lol api key&gt;'
 3. run 'sudo node install -g bower express grunt-cli'
 4. run 'grunt serve'
 
